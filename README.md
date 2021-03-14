@@ -4,7 +4,7 @@ See also [http://en.wikipedia.org/wiki/Freecell](http://en.wikipedia.org/wiki/Fr
 
 After downloading the archive, run the game by typing
 ```shell
-	python freecell
+python freecell
 ```
 at the command prompt of a terminal. The program requires Python 3.6 or higher.
 In the game, type '?' for gameplay instructions.

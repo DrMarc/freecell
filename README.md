@@ -11,5 +11,5 @@ In the game, type '?' for gameplay instructions.
 
 The Python port was done as an excercise to learn the Python curses library and
 adds nothing to Linus' C implementation. If you just want to play freecell in a
-terminal window on Linux or MacOS, you should compile the C version. Get it [here].
-(http://www.linusakesson.net/software/freecell.php)
+terminal window on Linux or MacOS, you should compile the C version. Get it [here]
+(http://www.linusakesson.net/software/freecell.php).
